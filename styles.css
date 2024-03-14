@@ -128,9 +128,21 @@ button{
     background-color: #555843;
     border-radius: 5px;
     padding: 8px;
-    color: #F5EEC8;
     margin: 20px;
     cursor: pointer;
+}
+
+button a{
+    text-decoration: none;
+    color: #F5EEC8;
+}
+
+button:hover{
+    background-color: #3b3609;
+}
+
+button a:hover{
+    color: #fff;
 }
 
 .footer{
