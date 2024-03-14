@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 100px;
+}
+
+hr{
+    margin: 50px auto;
+    width: 10%;
+    border: dotted #A7D397 6px;
+    border-bottom: 0;
+}
+
+section{
+    text-align: center;
+    position: relative;
+}
+
+.top-container{
+    background-color: #A7D397;
+}
+
+.top-container > img{
+    position: absolute;
+}
+
+.img-cod1{
+    left: 100px;
+    top: 40px;
+}
+
+.img-cod2{
+    right: 100px;
+    top: 40px;
+}
+
+.img-sam1{
+    left: 180px;
+    bottom: 15px;
+}
+
+.img-sam2{
+    right: 180px;
+    bottom: 20px;
+}
+
+h1{
+    font-family: "Sofia";
+    font-size: 48px;
+    font-weight: 400;
+    padding-top: 8.25rem;
+    color: #555843
+}
+
+h2, h3{
+    color: #114232
+}
+
+.code{
+    font-family: "Courier Prime";
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.pp{
+    border-radius: 50%;
+    margin-top: 35px;
+}
+
+.flag{
+    height: 100px;
+}
+
+.profile h2{
+    font-family: "Montserrat";
+    font-weight: 350;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.profile p{
+    font-family: "Montserrat";
+    font-weight: 300;
+}
+
+.monkey-gif{
+    height: 200px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+.skills h2{
+    font-family: "Montserrat";
+    font-weight: 350;
+    font-size: 30px;
+}
+
+.skills h3{
+    font-family: "Montserrat";
+    font-weight: 300;  
+    font-size: 22px; 
+    padding: 10px;
+}
+
+.skills p{
+    font-family: "Montserrat";
+    font-weight: 350;
+}
+
+.min{
+    font-size: 15px;
+}
+
+.max{
+    font-size: 18px;
+}
+
+button{
+    font-size: large;
+    border-style: none;
+    background-color: #555843;
+    border-radius: 5px;
+    padding: 8px;
+    color: #F5EEC8;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.footer{
+    background-color: #A7D397;
+    font-family: "Montserrat";
+}
+
+.footer img{
+    height: 20px;
+    padding-top: 40px;
+    padding-right: 1px;
+}
+
+.footer a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #000;
+}
+
+.footer a:hover{
+    color: #fff;
+}
+
+.footer p{
+    padding: 20px;
+}
